@@ -1,0 +1,5 @@
+name: roslab-tutorial
+
+distro: melodic
+
+build: catkin_make
